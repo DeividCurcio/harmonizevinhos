@@ -1,0 +1,48 @@
+/* styles.css */
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f9;
+	color: #333;
+}
+
+.container {
+	max-width: 600px;
+	margin: 20px auto;
+	padding: 20px;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	text-align: center;
+}
+
+button {
+	background: #800020;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+}
+
+button:hover {
+	background: #a00020;
+}
+
+#cameraView {
+	width: 100%;
+	max-width: 400px;
+	margin: 20px auto;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+
+#wineInfo, #harmonization {
+	margin: 20px 0;
+	padding: 15px;
+	background: #f9f9f9;
+	border-radius: 5px;
+	text-align: left;
+}

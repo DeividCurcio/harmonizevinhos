@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmonize Vinho</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Harmonize Vinho</h1>
+        <button id="scanButton">Escanear Código de Barras/QR Code</button>
+        <div id="cameraView"></div>
+        <div id="wineInfo">
+            <h2>Informações do Vinho</h2>
+            <p id="wineName">Nome: --</p>
+            <p id="wineType">Tipo: --</p>
+            <p id="wineRegion">Região: --</p>
+            <p id="wineYear">Ano: --</p>
+        </div>
+        <div id="harmonization">
+            <h2>Sugestões de Harmonização</h2>
+            <p id="foodSuggestions">Comidas: --</p>
+            <p id="cheeseSuggestions">Queijos: --</p>
+            <p id="temperature">Temperatura ideal: --</p>
+        </div>
+    </div>
+    <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
+    <script src="script.js"></script>
+</body>
+</html>

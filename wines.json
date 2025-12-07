@@ -1,0 +1,57 @@
+{
+  "7891234567890": {
+    "name": "Malbec Reserva",
+    "type": "Tinto",
+    "region": "Mendoza (AR)",
+    "year": "2019",
+    "harmonization": {
+      "food": ["Carnes grelhadas", "Empanadas"],
+      "cheese": ["Queijo azul", "Gouda"],
+      "temperature": "16-18°C"
+    }
+  },
+  "7890001112223": {
+    "name": "Sauvignon Blanc",
+    "type": "Branco",
+    "region": "Vale do Loire (FR)",
+    "year": "2022",
+    "harmonization": {
+      "food": ["Peixes", "Saladas cítricas"],
+      "cheese": ["Chèvre"],
+      "temperature": "8-10°C"
+    }
+  },
+  "7894900011716": {
+    "name": "Merlot Clássico",
+    "type": "Tinto",
+    "region": "Vale Central (CL)",
+    "year": "2020",
+    "harmonization": {
+      "food": ["Massas com molho vermelho", "Pizzas"],
+      "cheese": ["Parmesão", "Provolone"],
+      "temperature": "16-18°C"
+    }
+  },
+  "008981234567": {
+    "name": "Chardonnay Oak",
+    "type": "Branco",
+    "region": "Napa Valley (US)",
+    "year": "2021",
+    "harmonization": {
+      "food": ["Frango assado", "Risotos cremosos"],
+      "cheese": ["Gruyère", "Emmental"],
+      "temperature": "10-12°C"
+    }
+  },
+  "5601234567890": {
+    "name": "Vinho Verde",
+    "type": "Branco Leve",
+    "region": "Minho (PT)",
+    "year": "2023",
+    "harmonization": {
+      "food": ["Mariscos", "Saladas"],
+      "cheese": ["Queijo fresco"],
+      "temperature": "7-9°C"
+    }
+  }
+}
